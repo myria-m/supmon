@@ -8,7 +8,7 @@ int main() {
     char choix;
     int choix_nombre;
  
-    printf("Welcome in The Supemon World of myriam ! \n");
+    printf("Welcome in Supemon World ! \n");
  
     printf("Veuillez choisir :\n\n");
     printf("a - Entrer un nom et obtenir un Supemon\n");
